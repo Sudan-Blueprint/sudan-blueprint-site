@@ -1,0 +1,29 @@
+---
+title: "Contribute"
+format: html
+---
+
+# Contribute to Sudan Blueprint
+
+We welcome contributions from researchers, practitioners, NGOs, and local actors.
+
+### What You Can Share
+
+-   **Case Studies** – real-world examples of implemented projects
+-   **Toolkits** – step-by-step guides, implementation frameworks
+-   **Insights** – evaluations, lessons learned, policy briefs
+
+### How to Contribute
+
+1.  Fork the repository
+2.  Use one of the templates in the `/templates` folder
+3.  Submit a pull request OR open an issue with your draft
+
+See the [case study template](../templates/case-study-template.qmd) and [toolkit template](../templates/toolkit-template.qmd) for guidance.
+
+If you're not familiar with GitHub, email us at `contact@sudanblueprint.org` and we’ll help you onboard.
+
+### License & Attribution
+
+By contributing, you agree to share under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+

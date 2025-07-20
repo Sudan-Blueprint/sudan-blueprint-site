@@ -1,0 +1,25 @@
+---
+title: "[Insert Case Study Title]"
+categories: ["Sector 1", "Sector 2"]
+region: "[State or Region]"
+year: [Year of implementation]
+contributors: ["Your Name", "Org or Partner"]
+---
+
+# \[Insert Title Again\]
+
+## Summary
+
+\[Provide a one-paragraph overview of the project: what was done, where, and why.\]
+
+## Key Features
+
+-   \[Highlight 3–5 design or implementation highlights\]
+
+## Results
+
+-   \[Include any measurable outcomes or impact\]
+
+## Lessons Learned
+
+-   \[Challenges, insights, or tips for replicability\]

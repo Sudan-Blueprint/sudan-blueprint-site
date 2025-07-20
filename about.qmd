@@ -1,5 +1,20 @@
 ---
 title: "About"
+format: html
 ---
 
-About this site
+# About Sudan Blueprint
+
+**Sudan Blueprint** is an independent, public knowledge resource built to support inclusive, transparent, and data-driven development in Sudan.
+
+We document real-world solutions, lessons learned, and replicable strategies from across Sudan’s diverse regions and sectors. Our goal is to empower practitioners, planners and researchers with trusted, grounded insights.
+
+### Why this project?
+
+-   Sudan faces enormous development challenges — but also a wealth of local innovation and practical experience.
+-   Much of this knowledge is undocumented or inaccessible.
+-   We aim to fill that gap — collaboratively.
+
+This initiative is maintained by a community of researchers, developers, and contributors. It is open-source and non-commercial.
+
+

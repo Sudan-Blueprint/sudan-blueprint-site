@@ -1,0 +1,25 @@
+---
+title: "[Insert Toolkit Title]"
+categories: ["Topic", "Sector"]
+region: "[Optional]"
+year: [Year released]
+contributors: ["Your Name", "Org"]
+---
+
+# \[Insert Toolkit Title\]
+
+## Overview
+
+\[Brief description of what this toolkit enables and its intended users.\]
+
+## Sections
+
+-   \[List and describe the toolkit’s sections or modules\]
+
+## Templates & Checklists
+
+-   \[Link or describe supporting materials included\]
+
+## Notes
+
+\[Final notes, guidance on customization or examples of use.\]

@@ -1,0 +1,40 @@
+---
+title: "Maash Alnass Observatory: Food Security Intelligence in Sudan"
+categories: ["Food Security", "Local Markets", "Crisis Response"]
+region: "Multiple Regions"
+year: 2024
+contributors: ["Sudanese Statistical Society", "AFIA Consortium", "Attar"]
+sidebar: true
+---
+
+# Maash Alnass Observatory: Food Security Intelligence in Sudan
+
+## Summary
+
+The Maash Alnass Observatory is a collaborative initiative by the Sudanese Statistical Society (SSS), the AFIA Food Security Information Consortium, and Attar. Launched in response to the deepening food crisis in Sudan, the observatory monitors and documents the status of local markets and central kitchens across multiple regions. The goal is to provide real-time, actionable data to support targeted food security interventions and assist displaced populations in identifying accessible food resources.
+
+## Key Features
+
+-   Systematic data collection from regions severely affected by food insecurity
+-   Real-time monitoring of local market dynamics and central kitchen operations
+-   Capacity building for local cadres managing kitchens and market surveillance
+-   Documentation of grassroots kitchen models for replication
+
+## Results
+
+-   Improved ability to target aid to the most food-insecure areas
+-   Enhanced decision-making among internally displaced persons regarding resettlement options
+-   Strengthened evidence base for humanitarian and policy interventions
+-   Increased reliability and community trust in food security information
+
+## Lessons Learned
+
+-   Collaborative efforts among statistical bodies, NGOs, and local actors enable scalable and context-aware monitoring
+-   Investing in training local teams improves both the quality of data and the long-term sustainability of the observatory model
+-   Documenting localized kitchen models can accelerate adaptation in new crisis zones
+
+## Replicability
+
+This model is highly adaptable to crisis-affected regions where access to food data is fragmented or absent. It can be reproduced using basic monitoring tools, trained local teams, and coordination between humanitarian actors and data specialists.
+
+------------------------------------------------------------------------
