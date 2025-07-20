@@ -1,16 +1,177 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "templates/case-study-template.html",
+    "href": "templates/case-study-template.html",
+    "title": "[Insert Case Study Title]",
     "section": "",
-    "text": "About this site"
+    "text": "[Provide a one-paragraph overview of the project: what was done, where, and why.]\n\n\n\n\n[Highlight 3–5 design or implementation highlights]\n\n\n\n\n\n[Include any measurable outcomes or impact]\n\n\n\n\n\n[Challenges, insights, or tips for replicability]"
+  },
+  {
+    "objectID": "templates/case-study-template.html#summary",
+    "href": "templates/case-study-template.html#summary",
+    "title": "[Insert Case Study Title]",
+    "section": "",
+    "text": "[Provide a one-paragraph overview of the project: what was done, where, and why.]"
+  },
+  {
+    "objectID": "templates/case-study-template.html#key-features",
+    "href": "templates/case-study-template.html#key-features",
+    "title": "[Insert Case Study Title]",
+    "section": "",
+    "text": "[Highlight 3–5 design or implementation highlights]"
+  },
+  {
+    "objectID": "templates/case-study-template.html#results",
+    "href": "templates/case-study-template.html#results",
+    "title": "[Insert Case Study Title]",
+    "section": "",
+    "text": "[Include any measurable outcomes or impact]"
+  },
+  {
+    "objectID": "templates/case-study-template.html#lessons-learned",
+    "href": "templates/case-study-template.html#lessons-learned",
+    "title": "[Insert Case Study Title]",
+    "section": "",
+    "text": "[Challenges, insights, or tips for replicability]"
+  },
+  {
+    "objectID": "case-studies/maash-observatory-en.html",
+    "href": "case-studies/maash-observatory-en.html",
+    "title": "Maash Alnass Observatory: Food Security Intelligence in Sudan",
+    "section": "",
+    "text": "The Maash Alnass Observatory is a collaborative initiative by the Sudanese Statistical Society (SSS), the AFIA Food Security Information Consortium, and Attar. Launched in response to the deepening food crisis in Sudan, the observatory monitors and documents the status of local markets and central kitchens across multiple regions. The goal is to provide real-time, actionable data to support targeted food security interventions and assist displaced populations in identifying accessible food resources.\n\n\n\n\nSystematic data collection from regions severely affected by food insecurity\nReal-time monitoring of local market dynamics and central kitchen operations\nCapacity building for local cadres managing kitchens and market surveillance\nDocumentation of grassroots kitchen models for replication\n\n\n\n\n\nImproved ability to target aid to the most food-insecure areas\nEnhanced decision-making among internally displaced persons regarding resettlement options\nStrengthened evidence base for humanitarian and policy interventions\nIncreased reliability and community trust in food security information\n\n\n\n\n\nCollaborative efforts among statistical bodies, NGOs, and local actors enable scalable and context-aware monitoring\nInvesting in training local teams improves both the quality of data and the long-term sustainability of the observatory model\nDocumenting localized kitchen models can accelerate adaptation in new crisis zones\n\n\n\n\nThis model is highly adaptable to crisis-affected regions where access to food data is fragmented or absent. It can be reproduced using basic monitoring tools, trained local teams, and coordination between humanitarian actors and data specialists."
+  },
+  {
+    "objectID": "case-studies/maash-observatory-en.html#summary",
+    "href": "case-studies/maash-observatory-en.html#summary",
+    "title": "Maash Alnass Observatory: Food Security Intelligence in Sudan",
+    "section": "",
+    "text": "The Maash Alnass Observatory is a collaborative initiative by the Sudanese Statistical Society (SSS), the AFIA Food Security Information Consortium, and Attar. Launched in response to the deepening food crisis in Sudan, the observatory monitors and documents the status of local markets and central kitchens across multiple regions. The goal is to provide real-time, actionable data to support targeted food security interventions and assist displaced populations in identifying accessible food resources."
+  },
+  {
+    "objectID": "case-studies/maash-observatory-en.html#key-features",
+    "href": "case-studies/maash-observatory-en.html#key-features",
+    "title": "Maash Alnass Observatory: Food Security Intelligence in Sudan",
+    "section": "",
+    "text": "Systematic data collection from regions severely affected by food insecurity\nReal-time monitoring of local market dynamics and central kitchen operations\nCapacity building for local cadres managing kitchens and market surveillance\nDocumentation of grassroots kitchen models for replication"
+  },
+  {
+    "objectID": "case-studies/maash-observatory-en.html#results",
+    "href": "case-studies/maash-observatory-en.html#results",
+    "title": "Maash Alnass Observatory: Food Security Intelligence in Sudan",
+    "section": "",
+    "text": "Improved ability to target aid to the most food-insecure areas\nEnhanced decision-making among internally displaced persons regarding resettlement options\nStrengthened evidence base for humanitarian and policy interventions\nIncreased reliability and community trust in food security information"
+  },
+  {
+    "objectID": "case-studies/maash-observatory-en.html#lessons-learned",
+    "href": "case-studies/maash-observatory-en.html#lessons-learned",
+    "title": "Maash Alnass Observatory: Food Security Intelligence in Sudan",
+    "section": "",
+    "text": "Collaborative efforts among statistical bodies, NGOs, and local actors enable scalable and context-aware monitoring\nInvesting in training local teams improves both the quality of data and the long-term sustainability of the observatory model\nDocumenting localized kitchen models can accelerate adaptation in new crisis zones"
+  },
+  {
+    "objectID": "case-studies/maash-observatory-en.html#replicability",
+    "href": "case-studies/maash-observatory-en.html#replicability",
+    "title": "Maash Alnass Observatory: Food Security Intelligence in Sudan",
+    "section": "",
+    "text": "This model is highly adaptable to crisis-affected regions where access to food data is fragmented or absent. It can be reproduced using basic monitoring tools, trained local teams, and coordination between humanitarian actors and data specialists."
+  },
+  {
+    "objectID": "contribute.html",
+    "href": "contribute.html",
+    "title": "Contribute",
+    "section": "",
+    "text": "1 Contribute to Sudan Blueprint\nWe welcome contributions from researchers, practitioners, NGOs, and local actors.\n\n1.0.1 What You Can Share\n\nCase Studies – real-world examples of implemented projects\nToolkits – step-by-step guides, implementation frameworks\nInsights – evaluations, lessons learned, policy briefs\n\n\n\n1.0.2 How to Contribute\n\nFork the repository\nUse one of the templates in the /templates folder\nSubmit a pull request OR open an issue with your draft\n\nSee the case study template and toolkit template for guidance.\nIf you’re not familiar with GitHub, email us at contact@sudanblueprint.org and we’ll help you onboard.\n\n\n1.0.3 License & Attribution\nBy contributing, you agree to share under the CC BY 4.0 license."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "sudan-blueprint-site",
+    "title": "Sudan Blueprint",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "1 Sudan Blueprint\nWelcome to Sudan Blueprint — a digital, open-access repository of proven strategies and practical models for development across Sudan.\nWe collect, document, and share best practices from the ground up — from small-scale community innovations to large-scale public programs — so others can learn, replicate, and adapt.\nExplore successful initiatives across sectors like: - Infrastructure & Urban Planning - Education & Skills Development - Health & Public Services - Governance & Institutions - Digital Transformation\nWe believe that local knowledge and documented experience are key to building a better future — together."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 About Sudan Blueprint\nSudan Blueprint is an independent, public knowledge resource built to support inclusive, transparent, and data-driven development in Sudan.\nWe document real-world solutions, lessons learned, and replicable strategies from across Sudan’s diverse regions and sectors. Our goal is to empower practitioners, planners and researchers with trusted, grounded insights.\n\n1.0.1 Why this project?\n\nSudan faces enormous development challenges — but also a wealth of local innovation and practical experience.\nMuch of this knowledge is undocumented or inaccessible.\nWe aim to fill that gap — collaboratively.\n\nThis initiative is maintained by a community of researchers, developers, and contributors. It is open-source and non-commercial."
+  },
+  {
+    "objectID": "case-studies/maash-observatory-ar.html",
+    "href": "case-studies/maash-observatory-ar.html",
+    "title": "مرصد معاش الناس: مرصد الأمن الغذائي في السودان",
+    "section": "",
+    "text": "مرصد معاش الناس هو مبادرة تعاونية بين الجمعية السودانية للإحصاء، وتحالف معلومات الأمن الغذائي (عافية)، و جريدة أتر. أُطلق المرصد استجابةً لتفاقم أزمة الأمن الغذائي في السودان، ويهدف إلى مراقبة وتوثيق أوضاع الأسواق المحلية والمطابخ المركزية في مناطق متعددة. يسعى المرصد لتوفير بيانات دقيقة وآنية لدعم التدخلات الغذائية المستهدفة، ولمساعدة النازحين على تحديد مناطق توفر الموارد الغذائية.\n\n\n\n\nجمع منهجي للبيانات من المناطق الأشد تأثراً بانعدام الأمن الغذائي\nمراقبة آنية للأسواق المحلية والمطابخ المركزية\nبناء قدرات الكوادر المحلية في جمع وتحليل البيانات وإدارة المطابخ\nتوثيق نماذج المطابخ المجتمعية لغايات التكرار والتوسيع\n\n\n\n\n\nتحسين استهداف المساعدات للمناطق الأكثر حاجة\nدعم اتخاذ قرارات مستنيرة للنازحين حول خيارات إعادة التوطين\nتقوية قاعدة الأدلة لاتخاذ قرارات إنسانية وسياسات عامة فعالة\nتعزيز الثقة المجتمعية في البيانات والمعلومات حول الأمن الغذائي\n\n\n\n\n\nالتعاون بين الهيئات الإحصائية والمنظمات الإنسانية والجهات المحلية يعزز الاستجابة الفعالة والسياقية\nالاستثمار في تدريب الفرق المحلية يرفع من جودة البيانات ويضمن استدامة النموذج\nتوثيق النماذج المحلية للمطابخ يسهل التكيّف السريع في مناطق الأزمات الجديدة\n\n\n\n\nهذا النموذج قابل للتطبيق في مناطق الأزمات حيث تغيب البيانات الموثوقة حول الأمن الغذائي. يمكن تكراره باستخدام أدوات مراقبة بسيطة، وتدريب فرق محلية، وتنسيق فعال بين الجهات الفاعلة في المجال الإنساني وخبراء البيانات."
+  },
+  {
+    "objectID": "case-studies/maash-observatory-ar.html#الملخص",
+    "href": "case-studies/maash-observatory-ar.html#الملخص",
+    "title": "مرصد معاش الناس: مرصد الأمن الغذائي في السودان",
+    "section": "",
+    "text": "مرصد معاش الناس هو مبادرة تعاونية بين الجمعية السودانية للإحصاء، وتحالف معلومات الأمن الغذائي (عافية)، و جريدة أتر. أُطلق المرصد استجابةً لتفاقم أزمة الأمن الغذائي في السودان، ويهدف إلى مراقبة وتوثيق أوضاع الأسواق المحلية والمطابخ المركزية في مناطق متعددة. يسعى المرصد لتوفير بيانات دقيقة وآنية لدعم التدخلات الغذائية المستهدفة، ولمساعدة النازحين على تحديد مناطق توفر الموارد الغذائية."
+  },
+  {
+    "objectID": "case-studies/maash-observatory-ar.html#الملامح-الرئيسية",
+    "href": "case-studies/maash-observatory-ar.html#الملامح-الرئيسية",
+    "title": "مرصد معاش الناس: مرصد الأمن الغذائي في السودان",
+    "section": "",
+    "text": "جمع منهجي للبيانات من المناطق الأشد تأثراً بانعدام الأمن الغذائي\nمراقبة آنية للأسواق المحلية والمطابخ المركزية\nبناء قدرات الكوادر المحلية في جمع وتحليل البيانات وإدارة المطابخ\nتوثيق نماذج المطابخ المجتمعية لغايات التكرار والتوسيع"
+  },
+  {
+    "objectID": "case-studies/maash-observatory-ar.html#النتائج",
+    "href": "case-studies/maash-observatory-ar.html#النتائج",
+    "title": "مرصد معاش الناس: مرصد الأمن الغذائي في السودان",
+    "section": "",
+    "text": "تحسين استهداف المساعدات للمناطق الأكثر حاجة\nدعم اتخاذ قرارات مستنيرة للنازحين حول خيارات إعادة التوطين\nتقوية قاعدة الأدلة لاتخاذ قرارات إنسانية وسياسات عامة فعالة\nتعزيز الثقة المجتمعية في البيانات والمعلومات حول الأمن الغذائي"
+  },
+  {
+    "objectID": "case-studies/maash-observatory-ar.html#دروس-مستفادة",
+    "href": "case-studies/maash-observatory-ar.html#دروس-مستفادة",
+    "title": "مرصد معاش الناس: مرصد الأمن الغذائي في السودان",
+    "section": "",
+    "text": "التعاون بين الهيئات الإحصائية والمنظمات الإنسانية والجهات المحلية يعزز الاستجابة الفعالة والسياقية\nالاستثمار في تدريب الفرق المحلية يرفع من جودة البيانات ويضمن استدامة النموذج\nتوثيق النماذج المحلية للمطابخ يسهل التكيّف السريع في مناطق الأزمات الجديدة"
+  },
+  {
+    "objectID": "case-studies/maash-observatory-ar.html#قابلية-التكرار",
+    "href": "case-studies/maash-observatory-ar.html#قابلية-التكرار",
+    "title": "مرصد معاش الناس: مرصد الأمن الغذائي في السودان",
+    "section": "",
+    "text": "هذا النموذج قابل للتطبيق في مناطق الأزمات حيث تغيب البيانات الموثوقة حول الأمن الغذائي. يمكن تكراره باستخدام أدوات مراقبة بسيطة، وتدريب فرق محلية، وتنسيق فعال بين الجهات الفاعلة في المجال الإنساني وخبراء البيانات."
+  },
+  {
+    "objectID": "templates/toolkit-template.html",
+    "href": "templates/toolkit-template.html",
+    "title": "[Insert Toolkit Title]",
+    "section": "",
+    "text": "[Brief description of what this toolkit enables and its intended users.]\n\n\n\n\n[List and describe the toolkit’s sections or modules]\n\n\n\n\n\n[Link or describe supporting materials included]\n\n\n\n\n[Final notes, guidance on customization or examples of use.]"
+  },
+  {
+    "objectID": "templates/toolkit-template.html#overview",
+    "href": "templates/toolkit-template.html#overview",
+    "title": "[Insert Toolkit Title]",
+    "section": "",
+    "text": "[Brief description of what this toolkit enables and its intended users.]"
+  },
+  {
+    "objectID": "templates/toolkit-template.html#sections",
+    "href": "templates/toolkit-template.html#sections",
+    "title": "[Insert Toolkit Title]",
+    "section": "",
+    "text": "[List and describe the toolkit’s sections or modules]"
+  },
+  {
+    "objectID": "templates/toolkit-template.html#templates-checklists",
+    "href": "templates/toolkit-template.html#templates-checklists",
+    "title": "[Insert Toolkit Title]",
+    "section": "",
+    "text": "[Link or describe supporting materials included]"
+  },
+  {
+    "objectID": "templates/toolkit-template.html#notes",
+    "href": "templates/toolkit-template.html#notes",
+    "title": "[Insert Toolkit Title]",
+    "section": "",
+    "text": "[Final notes, guidance on customization or examples of use.]"
   }
 ]

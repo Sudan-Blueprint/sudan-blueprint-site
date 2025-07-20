@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Sudan-Blueprint.github.io/sudan-blueprint-site/about.html</loc>
-    <lastmod>2025-07-19T21:32:23.161Z</lastmod>
+    <loc>https://sudan-blueprint.github.io/sudan-blueprint-site/templates/case-study-template.html</loc>
+    <lastmod>2025-07-20T10:23:51.304Z</lastmod>
   </url>
   <url>
-    <loc>https://Sudan-Blueprint.github.io/sudan-blueprint-site/index.html</loc>
-    <lastmod>2025-07-19T21:32:23.161Z</lastmod>
+    <loc>https://sudan-blueprint.github.io/sudan-blueprint-site/case-studies/maash-observatory-en.html</loc>
+    <lastmod>2025-07-20T10:37:09.049Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sudan-blueprint.github.io/sudan-blueprint-site/contribute.html</loc>
+    <lastmod>2025-07-20T10:22:28.550Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sudan-blueprint.github.io/sudan-blueprint-site/index.html</loc>
+    <lastmod>2025-07-20T10:22:41.385Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sudan-blueprint.github.io/sudan-blueprint-site/about.html</loc>
+    <lastmod>2025-07-20T10:22:34.645Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sudan-blueprint.github.io/sudan-blueprint-site/case-studies/maash-observatory-ar.html</loc>
+    <lastmod>2025-07-20T10:46:12.705Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sudan-blueprint.github.io/sudan-blueprint-site/templates/toolkit-template.html</loc>
+    <lastmod>2025-07-20T10:24:11.970Z</lastmod>
   </url>
 </urlset>

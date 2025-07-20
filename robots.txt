@@ -1,1 +1,1 @@
-Sitemap: https://Sudan-Blueprint.github.io/sudan-blueprint-site/sitemap.xml
+Sitemap: https://sudan-blueprint.github.io/sudan-blueprint-site/sitemap.xml
