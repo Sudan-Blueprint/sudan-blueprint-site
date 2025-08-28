@@ -16,9 +16,9 @@ website:
       - text: "Case Studies"
         menu:
           - text: "Maash Alnass Observatory (EN)"
-            href: case-studies/maash-observatory-en.html
+            href: case-studies/maash-observatory-en.qmd
           - text: "مرصد معاش الناس (AR)"
-            href: case-studies/maash-observatory-ar.html
+            href: case-studies/maash-observatory-ar.qmd
       - text: "Toolkits"
         href: toolkits/index.qmd
 
